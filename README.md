@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me -
 🚀 About Me<br>• I’m currently working on-<br>•Machine Learning<br>•Building real-world applications (like recommendation systems and fraud detection)<br>•Improving DSA & problem-solving skills<br>•👯 I’m looking to collaborate on-<br>•Open-source ML/AI projects<br>•Python-based applications<br>•Beginner-friendly research or college-level project<br>•🤝 I’m looking for help with-<br>•Advanced Machine Learning concepts<br>•Model optimization & deployment<br>•Open-source contributions<br>•🤖 I’m currently learning<br>•Machine Learning & Data Science<br>•Data Structures & Algorithms<br>•Model deployment (Hugging Face, APIs)<br>•💬 Ask me about-<br>•Python programming<br>•Machine Learning basics<br>•DSA for interviews<br>•Building ML projects<br>•⚡ Fun fact<br>•I learn faster by building projects than just watching tutorials<br><br><br>
 
 ## 🌐 Socials:
